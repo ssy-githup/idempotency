@@ -2,8 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33b81b5e-6cc9-4a46-909c-713292c7c10f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/annotation/ApiIdempotent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/annotation/ApiIdempotent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/common/Constant$LogType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/common/Constant$MsgLogStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/common/Constant$Redis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/common/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/common/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/controller/TestTokenController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/controller/TestTokenController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/controller/TokenController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/controller/TokenController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/idempotencyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/idempotencyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/interceptor/ApiIdempotentInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/interceptor/ApiIdempotentInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/service/TokenService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/service/TokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/service/impl/TokenServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/service/impl/TokenServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/ConfigUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/ConfigUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/IpUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/IpUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/JedisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/JedisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/RandomUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/RandomUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/RegexUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/RegexUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/SerializableUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ai/ssy/util/SerializableUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/idempotency-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/idempotency-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578531274224</updated>
-      <workItem from="1578531276071" duration="4637000" />
+      <workItem from="1578531276071" duration="4651000" />
     </task>
     <servers />
   </component>
